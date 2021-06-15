@@ -79,7 +79,6 @@ The table below describes the existing files in the `./front-end` folder:
 
 ### Knex
 
-Run `npx knex` commands from within the `back-end` folder, which is where the `knexfile.js` file is located.
 
 ## Installation
 
