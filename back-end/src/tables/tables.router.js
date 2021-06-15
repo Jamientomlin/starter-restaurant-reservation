@@ -5,7 +5,7 @@
  */
 
  const router = require('express').Router()
- const controller = require('./tables.controller')
+ const controller = require('./tables.controller,js')
  const methodNotAllowed = require('../errors/methodNotAllowed')
  const seatRouter = require('../seat/seat.router')
  
