@@ -54,10 +54,10 @@ Routes (stateful) -
 |/reservations/:reservation_id | GET |	Gets the reservation with specific 'reservation_id'. |
 |/reservations/:reservation_id|	PUT |	Updates the reservation. |
 |/reservations/:reservation_id/status |	PUT	| Updates the reservation status.|
-|/tables	| |GET	|Retrieves all existing tables.|
-|/tables|	|POST |	Creates a new table.|
+|/tables| GET	|Retrieves all existing tables.|
+|/tables | POST |	Creates a new table.|
 |/tables/:tableId/seat|	PUT |	Assigns a reservation to a table. |
-| /tables/:tableId/seat |	| DELETE	| Clears a table for future use. |
+| /tables/:tableId/seat 	| DELETE	| Clears a table for future use. |
 7. Screenshots
 Dashboard
 Dashboard
