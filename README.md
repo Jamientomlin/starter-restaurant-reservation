@@ -53,7 +53,7 @@ Menu - *Dashboard *Search *New_Reservation *New_Table
 Routes (stateful) -
 
 6. API Documentation
-7. 
+
 |  Endpoint | Method  |	Description |
 | ---       | ---     |  ---        |
 | /reservations | GET  | Retrieves all existing reservation. |
