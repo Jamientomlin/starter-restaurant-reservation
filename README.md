@@ -37,14 +37,21 @@ The app's functionality includes:
 Every User has the ability to create and edit Tables and Reservations
 4. Technology
 Front-End: HTML5, CSS3, JavaScript ES6, React
+
 Back-End: Node.js, Express.js, RESTful API Endpoints, Postgres
 Development Environment: DBeaver
+
 5. Front-end Structure - React Components Map
 Index.js
+
 App.js
+
 Layout.js
+
 Menu - *Dashboard *Search *New_Reservation *New_Table
+
 Routes (stateful) -
+
 6. API Documentation
 	Method	Description
 |  Endpoint | Method  |	Description |
@@ -60,14 +67,23 @@ Routes (stateful) -
 | /tables/:tableId/seat 	| DELETE	| Clears a table for future use. |
 7. Screenshots
 Dashboard
+
 Dashboard
+
 Search
+
 Search
+
 Add Reservation
+
 Add Reservation
+
 Add Table
+
 Add Table
+
 8. How to run it
+
 Use command line to navigate into the project folder and run the following in terminal
 
 Local React scripts
