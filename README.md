@@ -2,7 +2,7 @@ Reservation Setter
 This is an application used by restaurant employees to schedule reservations.
 
 1. Working Prototype
-You can access a working prototype of the React app here: https://reservation-app-frontend-7dx7kk0ax-james-hanna.vercel.app/dashboard
+You can access a working prototype of the React app here: https://my-reservation-client1.herokuapp.com/dashboard
 
 2. User Stories
 This app is for one type of user: a restaurant employee.
