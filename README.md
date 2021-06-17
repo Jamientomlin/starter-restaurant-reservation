@@ -46,9 +46,12 @@ Layout.js
 Menu - *Dashboard *Search *New_Reservation *New_Table
 Routes (stateful) -
 6. API Documentation
-Endpoint	Method	Description
-/reservations	GET	Retrieves all existing reservation.
-/reservations	POST	Creates a new reservation.
+	Method	Description
+|  Endpoint | Method  |	Description |
+| ---       | ---     |  ---        |
+| /reservations | GET  | Retrieves all existing reservation. |
+| /reservations    | POST |    Creates a new reservation.    |
+
 /reservations/:reservation_id	GET	Gets the reservation with specific 'reservation_id'.
 /reservations/:reservation_id	PUT	Updates the reservation.
 /reservations/:reservation_id/status	PUT	Updates the reservation status.
