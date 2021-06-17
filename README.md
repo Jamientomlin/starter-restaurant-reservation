@@ -39,8 +39,9 @@ As a restaurant manager I want to be able to modify a reservation if a customer 
 The app's functionality includes:
 
 Every User has the ability to create and edit Tables and Reservations
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <b>Technology>/b>
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Front-End: HTML5, CSS3, JavaScript ES6, React
 
 Back-End: Node.js, Express.js, RESTful API Endpoints, Postgres
