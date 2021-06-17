@@ -33,18 +33,19 @@ As a restaurant manager I want to search for a reservation by phone number (part
 
 US-08 Change an existing reservation
 As a restaurant manager I want to be able to modify a reservation if a customer calls to change or cancel their reservation so that reservations are accurate and current.
-
-3. Functionality
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<b> Functionality </b>
 The app's functionality includes:
 
 Every User has the ability to create and edit Tables and Reservations
-4. Technology
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<b>Technology>/b>
 Front-End: HTML5, CSS3, JavaScript ES6, React
 
 Back-End: Node.js, Express.js, RESTful API Endpoints, Postgres
 Development Environment: DBeaver
-
-5. Front-end Structure - React Components Map
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<b> Front-end Structure - React Components Map </b>
 Index.js
 
 App.js
@@ -54,7 +55,7 @@ Layout.js
 Menu - *Dashboard *Search *New_Reservation *New_Table
 
 Routes (stateful) -
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 6. API Documentation
 
 |  Endpoint | Method  |	Description |
