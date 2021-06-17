@@ -3,9 +3,9 @@ This is an application used by restaurant employees to schedule reservations.
 
 <b> Working Prototype
 You can access a working prototype of the React app here: https://my-reservation-client1.herokuapp.com/dashboard </b>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <b> User Stories </b>
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 This app is for one type of user: a restaurant employee.
@@ -33,8 +33,9 @@ As a restaurant manager I want to search for a reservation by phone number (part
 
 US-08 Change an existing reservation
 As a restaurant manager I want to be able to modify a reservation if a customer calls to change or cancel their reservation so that reservations are accurate and current.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <b> Functionality </b>
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 The app's functionality includes:
 
 Every User has the ability to create and edit Tables and Reservations
