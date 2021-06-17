@@ -1,4 +1,5 @@
-Reservation Setter
+Restaurant Reservation
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This is an application used by restaurant employees to schedule reservations.
 
 <b> Working Prototype
@@ -40,13 +41,13 @@ The app's functionality includes:
 
 Every User has the ability to create and edit Tables and Reservations
 
-<b>Technology>/b>
+<b>Technology </b>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Front-End: HTML5, CSS3, JavaScript ES6, React
 
 Back-End: Node.js, Express.js, RESTful API Endpoints, Postgres
 Development Environment: DBeaver
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <b> Front-end Structure - React Components Map </b>
 Index.js
 
@@ -57,8 +58,9 @@ Layout.js
 Menu - *Dashboard *Search *New_Reservation *New_Table
 
 Routes (stateful) -
+
+API Documentation
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-6. API Documentation
 
 |  Endpoint | Method  |	Description |
 | ---       | ---     |  ---        |
@@ -72,7 +74,8 @@ Routes (stateful) -
 |/tables/:tableId/seat|	PUT |	Assigns a reservation to a table. |
 | /tables/:tableId/seat 	| DELETE	| Clears a table for future use. |
 
-7. Screenshots
+Screenshots
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Dashboard
 
 Dashboard
@@ -89,8 +92,8 @@ Add Table
 
 Add Table
 
-8. How to run it
-
+How to run it
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Use command line to navigate into the project folder and run the following in terminal
 
 Local React scripts
