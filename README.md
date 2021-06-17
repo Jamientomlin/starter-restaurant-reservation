@@ -53,7 +53,7 @@ Menu - *Dashboard *Search *New_Reservation *New_Table
 Routes (stateful) -
 
 6. API Documentation
-	Method	Description
+7. 
 |  Endpoint | Method  |	Description |
 | ---       | ---     |  ---        |
 | /reservations | GET  | Retrieves all existing reservation. |
@@ -65,6 +65,7 @@ Routes (stateful) -
 |/tables | POST |	Creates a new table.|
 |/tables/:tableId/seat|	PUT |	Assigns a reservation to a table. |
 | /tables/:tableId/seat 	| DELETE	| Clears a table for future use. |
+
 7. Screenshots
 Dashboard
 
