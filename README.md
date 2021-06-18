@@ -78,19 +78,39 @@ Screenshots
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Dashboard
 
+![Screenshot (177)](https://user-images.githubusercontent.com/75855074/122486255-b0a42400-cfa6-11eb-99be-8944945c6175.png)
+
+
 Dashboard
 
-Search
+![Screenshot (178)](https://user-images.githubusercontent.com/75855074/122486378-f5c85600-cfa6-11eb-9b05-0ba9a8ed1a37.png)
+
 
 Search
 
-Add Reservation
+![Screenshot (179)](https://user-images.githubusercontent.com/75855074/122486413-0678cc00-cfa7-11eb-9106-182b5bc99c1a.png)
+
+
+Search
+
+![Screenshot (180)](https://user-images.githubusercontent.com/75855074/122486421-0b3d8000-cfa7-11eb-9cee-f68b593eb460.png)
+
 
 Add Reservation
 
-Add Table
+![Screenshot (181)](https://user-images.githubusercontent.com/75855074/122486483-27412180-cfa7-11eb-80d7-6291c18da920.png)
+
+Add Reservation
+
+![Screenshot (183)](https://user-images.githubusercontent.com/75855074/122486525-3d4ee200-cfa7-11eb-95f6-68e8ab221d91.png)
 
 Add Table
+
+![Screenshot (184)](https://user-images.githubusercontent.com/75855074/122486550-4b046780-cfa7-11eb-80c6-e47484f7f500.png)
+
+Add Table
+
+![Screenshot (185)](https://user-images.githubusercontent.com/75855074/122486579-56f02980-cfa7-11eb-9539-06a7490c9311.png)
 
 How to run it
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
